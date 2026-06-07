@@ -19,6 +19,7 @@ It's prose and templates, not software. No install, no dependency. Read it in 15
 | [`how-to-apply.md`](how-to-apply.md) | How to run the rubric in practice: where it fits, the compression test, integrating into review without a bottleneck. |
 | [`compression-test-template.md`](compression-test-template.md) | A drop-in worksheet: paste your content into an AI, see whether your differentiator survives compression. |
 | [`worked-example.md`](worked-example.md) | A generic before/after: the same announcement scored 4/10, then 10/10, with the three fixes shown. |
+| [`examples/`](examples/) | The kit applied to real public articles (Cloudflare 10/10, Ethereum 7/10, Vercel 6/10) - field notes with compression tests and the lift for each. |
 
 ## What you can do with it
 
@@ -35,6 +36,8 @@ Pick the tier that fits how you work:
 3. **At generation time.** If you draft with an AI assistant, paste the five checks into your prompt so the first draft is already agent-legible. Highest leverage - you fix the cause, not the symptom.
 
 It works the same whether you're in eng, product, docs, devrel, or marketing. If you write something an outsider will read to make a decision, it has a second reader, and this kit is for serving it.
+
+**Running a content pipeline?** If your team has an editorial workflow - or an AI-assisted drafting process - this is the *agent-readiness gate* that sits alongside your editorial, plain-language, and compliance checks: one more pass asking "does our differentiator survive when an AI summarizes this?" It pairs with voice, it doesn't replace it. Keeping the author's voice serves the human reader; the truth layer serves the agent. You need both - that's the dual-channel discipline.
 
 ## The 10-minute quickstart
 
