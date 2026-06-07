@@ -18,6 +18,7 @@ It's prose and templates, not software. No install, no dependency. Read it in 15
 | [`two-audiences-explainer.md`](two-audiences-explainer.md) | The one-page "why" - the two readers, compression, the truth layer, the honest wedge. Read this first. |
 | [`how-to-apply.md`](how-to-apply.md) | How to run the rubric in practice: where it fits, the compression test, integrating into review without a bottleneck. |
 | [`compression-test-template.md`](compression-test-template.md) | A drop-in worksheet: paste your content into an AI, see whether your differentiator survives compression. |
+| [`worked-example.md`](worked-example.md) | A generic before/after: the same announcement scored 4/10, then 10/10, with the three fixes shown. |
 
 ## What you can do with it
 
