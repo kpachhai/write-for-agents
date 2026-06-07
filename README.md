@@ -4,6 +4,8 @@
 
 When someone decides whether to use what you build, they increasingly don't read your page first - they ask an AI, and act on the three-sentence summary it hands back. That AI reads you before any human does, compresses you, and forms an opinion. If your content is generic, it gets averaged into the category and you disappear. This kit is a short, practical discipline for making your content survive that reading - without losing the human reader.
 
+**Think of it as an ATS for everything you publish.** An applicant tracking system reads your resume before a recruiter does and decides whether a human ever sees you. The same thing now happens to all your external content - docs, product pages, posts, launches: an AI reads it before your buyer does, compresses it, and decides whether they ever hear your name. With one decisive difference. You don't beat this reader by stuffing keywords. It's a reasoning model that *checks* your claims, so you win by being provably specific, not by gaming it. (Trying to game it backfires - if the agent can't verify a claim, it just drops it.)
+
 It's prose and templates, not software. No install, no dependency. Read it in 15 minutes; apply it the same day.
 
 ---
