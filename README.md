@@ -37,6 +37,8 @@ Pick the tier that fits how you work:
 
 It works the same whether you're in eng, product, docs, devrel, or marketing. If you write something an outsider will read to make a decision, it has a second reader, and this kit is for serving it.
 
+**Using Claude Code?** The repo doubles as a plugin: run `/plugin marketplace add kpachhai/write-for-agents`, then `/plugin install write-for-agents@write-for-agents`. The `content-audit` skill runs the rubric scoring + compression test on any content you point it at, calibrated against the kit's worked examples.
+
 **Running a content pipeline?** If your team has an editorial workflow - or an AI-assisted drafting process - this is the *agent-readiness gate* that sits alongside your editorial, plain-language, and compliance checks: one more pass asking "does our differentiator survive when an AI summarizes this?" It pairs with voice, it doesn't replace it. Keeping the author's voice serves the human reader; the truth layer serves the agent. You need both - that's the dual-channel discipline.
 
 ## The 10-minute quickstart

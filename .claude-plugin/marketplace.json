@@ -1,0 +1,27 @@
+{
+  "name": "write-for-agents",
+  "description": "Content Readiness Kit as an installable Claude Code plugin: the content-audit skill plus rubric, compression test, and worked examples.",
+  "owner": {
+    "name": "Kiran Pachhai"
+  },
+  "plugins": [
+    {
+      "name": "write-for-agents",
+      "source": "./",
+      "description": "Audit external-facing content for AI-agent legibility: 5-dimension rubric scoring, compression test, and concrete fix recommendations.",
+      "author": {
+        "name": "Kiran Pachhai"
+      },
+      "homepage": "https://github.com/kpachhai/write-for-agents",
+      "repository": "https://github.com/kpachhai/write-for-agents",
+      "license": "Apache-2.0",
+      "keywords": [
+        "content",
+        "writing",
+        "ai-readiness",
+        "compression-test",
+        "rubric"
+      ]
+    }
+  ]
+}

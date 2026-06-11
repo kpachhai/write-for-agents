@@ -1,0 +1,20 @@
+{
+  "name": "write-for-agents",
+  "description": "Content Readiness Kit: audit external-facing content for its second reader - the AI that compresses it before any human sees it. Ships the content-audit skill (5-dimension rubric scoring + compression test) plus the full discipline as reference files.",
+  "author": {
+    "name": "Kiran Pachhai"
+  },
+  "homepage": "https://github.com/kpachhai/write-for-agents",
+  "repository": "https://github.com/kpachhai/write-for-agents",
+  "license": "Apache-2.0",
+  "keywords": [
+    "content",
+    "writing",
+    "ai-readiness",
+    "compression-test",
+    "rubric",
+    "devrel",
+    "marketing",
+    "docs"
+  ]
+}
